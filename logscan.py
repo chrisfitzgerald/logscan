@@ -2,7 +2,8 @@ import PySimpleGUI as sg
 import os.path
 from scan import logscan
 
-sg.theme('Reddit')	# Add theme
+# Add theme
+sg.theme('Reddit')	
 
 # Objects in the window.
 layout = [  [sg.Text('Select Log File:')],
@@ -22,7 +23,7 @@ while True:
         break
     if event == 'Scan':
         if input_text == 'about':
-            print('\nThis is Logscan Version <<VersionNumber>>.\n \nVisit: https://SOP.com/information>> for more information.\n\n')
+            print('\nThis is Logscan Version <<YOURVERSION>>.\n \nVisit: <<YOURLINK>> for more information.\n\n')
         elif is_file is False:
             print('\nThis is not a valid file. Please check the file path.')
         elif values['_file_']:

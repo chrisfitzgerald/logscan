@@ -1,0 +1,14 @@
+.LOG
+9:01 PM 10/11/2022 - this is the first thing that happened
+9:01 PM 10/11/2022 - this is the second thing that happened
+9:02 PM 10/11/2022 - this second thing happened again
+9:02 PM 10/11/2022 - ERROR: not supported [0x0001]
+9:02 PM 10/11/2022 - more things happen
+
+9:02 PM 10/11/2022 - and more things
+
+9:02 PM 10/11/2022 - this is a sample log file
+9:03 PM 10/11/2022 - ERROR: connection failed [0x0002]
+
+9:03 PM 10/11/2022 - this is a test
+9:04 PM 10/11/2022 - This is a new thing that has happened
