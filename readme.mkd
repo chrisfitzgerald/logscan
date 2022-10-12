@@ -1,7 +1,7 @@
 ﻿░█▒░░▄▀▄░▄▀▒░▄▀▀░▄▀▀▒▄▀▄░█▄░█
 ▒█▄▄░▀▄▀░▀▄█▒▄██░▀▄▄░█▀█░█▒▀█
 
-![logScan.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/900e70f1-900c-4939-912f-d3a06ace1380/logScan.png)
+![logScan.png](public/Images/logScan.png)
 
 ## Installation:
 
