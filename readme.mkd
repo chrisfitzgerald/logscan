@@ -1,5 +1,6 @@
-﻿░█▒░░▄▀▄░▄▀▒░▄▀▀░▄▀▀▒▄▀▄░█▄░█
+░█▒░░▄▀▄░▄▀▒░▄▀▀░▄▀▀▒▄▀▄░█▄░█
 ▒█▄▄░▀▄▀░▀▄█▒▄██░▀▄▄░█▀█░█▒▀█
+
 
 ![logScan.png](https://github.com/chrisfitzgerald/logscan/blob/master/Public/Images/logScan.png?raw=true)
 
