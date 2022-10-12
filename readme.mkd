@@ -1,7 +1,7 @@
 ﻿░█▒░░▄▀▄░▄▀▒░▄▀▀░▄▀▀▒▄▀▄░█▄░█
 ▒█▄▄░▀▄▀░▀▄█▒▄██░▀▄▄░█▀█░█▒▀█
 
-![logScan.png](public/Images/logScan.png)
+![logScan.png](./public/Images/logScan.png)
 
 ## Installation:
 
