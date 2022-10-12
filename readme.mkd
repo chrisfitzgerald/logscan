@@ -52,15 +52,15 @@ python logscan.py
 
 5) Compile to executable:
 
-a) Installer pyinstaller - [https://pyinstaller.org/en/stable/](https://pyinstaller.org/en/stable/)
+    a) Installer pyinstaller - [https://pyinstaller.org/en/stable/](https://pyinstaller.org/en/stable/)
 
 ```powershell
 pip install -U pyinstaller
 ```
 
-     ensure your environment variable is set - ([help](https://stackoverflow.com/questions/45951964/pyinstaller-is-not-recognized-as-internal-or-external-command))
+ensure your environment variable is set - ([help](https://stackoverflow.com/questions/45951964/pyinstaller-is-not-recognized-as-internal-or-external-command))
 
-b) Compile:
+    b) Compile:
 
 ```powershell
 pyinstaller --onefile -w --icon=logscan.ico logscan.py
